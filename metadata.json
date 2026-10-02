@@ -1,0 +1,6 @@
+{
+  "name": "LumoPay",
+  "description": "AI-powered financial inclusion companion for underserved people in India: rural households, vendors, farmers and gig workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
